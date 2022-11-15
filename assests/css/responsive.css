@@ -1,8 +1,9 @@
-@media only screen and(max-width: 1020px){
-    .sidebar{
-        display: none;
-    }
+
+@media only screen and (max-width: 992px) {
     .mainlist{ 
         width: 100%;
+    }
+    .sidebar{
+        display: none;
     }
 }
