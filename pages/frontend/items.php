@@ -16,7 +16,7 @@ while($fetch = mysqli_fetch_assoc($records)){
                                         <p>
                                             $fetch[desc]
                                         </p>
-                                        <a href='pages/backend/files/$fetch[apk]'><buttton type='button' name='submit' class='btn btn-success w-25'>DOWNLOAD</button></a>
+                                        <a href='pages/backend/files/$fetch[apk]'><buttton type='button' name='submit' class='btn btn-success'>DOWNLOAD</button></a>
                                     </div>
                                 </div>
                             </div>
