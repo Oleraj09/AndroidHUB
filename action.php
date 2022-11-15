@@ -9,6 +9,9 @@ if(isset($_GET['pages'])){
         include "pages/backend/header.php";
         include "pages/backend/admin.php";
     }
+    if($_GET['pages']=='register'){
+        include "pages/frontend/register.php";
+    }
     if($_GET['pages']=='login'){
         include "pages/frontend/login.php";
     }
