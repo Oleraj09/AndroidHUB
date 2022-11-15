@@ -49,7 +49,8 @@
                         </li>
                         <li class="nav-item"><a href="#blogpost" class="nav-link">Suggestion</a></li>
                         <li class="nav-item"><a href="#aboutme" class="nav-link">Contact Us</a></li>
-                        <li class="nav-item"><a href="action.php?pages=login" class="nav-link" data-toggle="modal" data-target="#exampleModalCenter">Login</a></li>
+                        <li class="nav-item"><a href="action.php?pages=register" class="nav-link">SingUp</a></li>
+                        <li class="nav-item"><a href="action.php?pages=login" class="nav-link">Login</a></li>
                     </ul>
                 </div> 
             </div>
